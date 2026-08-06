@@ -1,6 +1,6 @@
-México · Hack The Box · Linux Ricing
+Mexico · Hack The Box · Linux Ricing
 
-Estudiante de bachillerato y entusiasta de Linux. Me gusta el pentesting, a veces el ricing de BSPWM y crear pequeños proyectos con Python y Bash. Actualmente estoy construyendo laboratorios para pentesting.
+High school student and Linux enthusiast. I like pentesting, sometimes BSPWM ricing, and building small projects with Python and Bash. Currently building pentesting labs.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -13,33 +13,33 @@ Estudiante de bachillerato y entusiasta de Linux. Me gusta el pentesting, a vece
 
 ---
 
-## Ciberseguridad
+## Cybersecurity
 
-| Proyecto | Descripción |
-|----------|-------------|
-| [WarLabs](https://github.com/Sn0wBaall/WarLabs) | Plataforma auto-hospedada de laboratorios de hacking ético con Docker (GUI + CLI) |
-| [Grim-Reaper](https://github.com/Sn0wBaall/Grim-Reaper) | Escáner de red ARP con consulta de fabricante MAC |
-| [Wardriving](https://github.com/Sn0wBaall/Wardriving) | Visualizador de datos de WiGLE en terminal |
-| [CVE-2024-23334-PoC](https://github.com/Sn0wBaall/CVE-2024-23334-PoC) | PoC path traversal en aiohttp (HTB Chemistry) |
-| [CVE-2023-4220-PoC](https://github.com/Sn0wBaall/CVE-2023-4220-PoC) | PoC RCE en Chamilo LMS (HTB PermX) |
+| Project | Description |
+|---------|-------------|
+| WarLabs | Self-hosted ethical hacking labs platform with Docker (GUI + CLI) — **temporarily private** |
+| [Grim-Reaper](https://github.com/Sn0wBaall/Grim-Reaper) | ARP network scanner with MAC vendor lookup |
+| [Wardriving](https://github.com/Sn0wBaall/Wardriving) | WiGLE data viewer in the terminal |
+| [CVE-2024-23334-PoC](https://github.com/Sn0wBaall/CVE-2024-23334-PoC) | aiohttp path traversal PoC (HTB Chemistry) |
+| [CVE-2023-4220-PoC](https://github.com/Sn0wBaall/CVE-2023-4220-PoC) | Chamilo LMS RCE PoC (HTB PermX) |
 
 ## Linux Ricing
 
-| Proyecto | Descripción |
-|----------|-------------|
-| [Kali-Auto-BSPWM](https://github.com/Sn0wBaall/Kali-Auto-BSPWM) | Auto-instalador de BSPWM + Polybar + Rofi para Kali Linux |
-| [Dotfiles](https://github.com/Sn0wBaall/Dotfiles) | Dotfiles de Arch Linux con BSPWM |
-| [Wallpapers](https://github.com/Sn0wBaall/Wallpapers) | Colección de wallpapers con navegador interactivo |
+| Project | Description |
+|---------|-------------|
+| [Kali-Auto-BSPWM](https://github.com/Sn0wBaall/Kali-Auto-BSPWM) | BSPWM + Polybar + Rofi auto-installer for Kali Linux |
+| [Dotfiles](https://github.com/Sn0wBaall/Dotfiles) | Arch Linux BSPWM dotfiles |
+| [Wallpapers](https://github.com/Sn0wBaall/Wallpapers) | Wallpaper collection with an interactive browser |
 
 ## Web
 
-| Proyecto | Descripción |
-|----------|-------------|
-| [sn0wbaall.github.io](https://github.com/Sn0wBaall/Sn0wBaall.github.io) | Página personal (próximamente) |
+| Project | Description |
+|---------|-------------|
+| [sn0wbaall.github.io](https://github.com/Sn0wBaall/Sn0wBaall.github.io) | Personal site |
 
 ---
 
-## Estadísticas
+## Stats
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sn0wBaall&theme=dark)
 
