@@ -41,7 +41,4 @@ High school student and Linux enthusiast. I like pentesting, sometimes BSPWM ric
 
 ## Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sn0wBaall&theme=dark)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sn0wBaall&theme=dark)
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sn0wBaall&theme=dark)
+![GitHub Stats](https://ghstats.dev/api/card?username=Sn0wBaall&theme=catppuccin)
