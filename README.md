@@ -35,7 +35,7 @@ High school student and Linux enthusiast. I like pentesting, sometimes BSPWM ric
 
 | Project | Description |
 |---------|-------------|
-| [sn0wbaall.github.io](https://github.com/Sn0wBaall/Sn0wBaall.github.io) | Personal site |
+| [sn0wbaall.github.io](https://Sn0wBaall.github.io) | Personal site |
 
 ---
 
