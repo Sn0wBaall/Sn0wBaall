@@ -17,7 +17,7 @@ High school student and Linux enthusiast. I like pentesting, sometimes BSPWM ric
 
 | Project | Description |
 |---------|-------------|
-| WarLabs | Self-hosted ethical hacking labs platform with Docker (GUI + CLI) — **temporarily private** |
+| [WarLabs](https://github.com/Sn0wBaall/WarLabs) | Self-hosted ethical hacking labs platform with Docker (GUI + CLI) — **temporarily private** |
 | [Grim-Reaper](https://github.com/Sn0wBaall/Grim-Reaper) | ARP network scanner with MAC vendor lookup |
 | [Wardriving](https://github.com/Sn0wBaall/Wardriving) | WiGLE data viewer in the terminal |
 | [CVE-2024-23334-PoC](https://github.com/Sn0wBaall/CVE-2024-23334-PoC) | aiohttp path traversal PoC (HTB Chemistry) |
